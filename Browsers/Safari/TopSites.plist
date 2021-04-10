@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BannedURLStrings</key>
+	<array/>
+	<key>DemoSites</key>
+	<array/>
+	<key>DisplayedSitesLastModified</key>
+	<date>2021-03-31T19:41:29Z</date>
+	<key>TopSites</key>
+	<array>
+		<dict>
+			<key>TopSiteTitle</key>
+			<string>YouTube</string>
+			<key>TopSiteURLString</key>
+			<string>https://www.youtube.com/</string>
+		</dict>
+	</array>
+</dict>
+</plist>
