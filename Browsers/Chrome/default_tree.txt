@@ -1,0 +1,72 @@
+Default
+├── 000005.ldb
+├── 000006.log
+├── Accounts
+├── Bookmarks
+├── CURRENT
+├── Cookies
+├── Cookies-journal
+├── Extension\ Rules
+├── Extension\ State
+├── Extensions
+├── Favicons
+├── Favicons-journal
+├── Feature\ Engagement\ Tracker
+├── File\ System
+├── GCM\ Store
+├── GPUCache
+├── Google\ Profile\ Picture.png
+├── History
+├── History\ Provider\ Cache
+├── History-journal
+├── IndexedDB
+├── LOCK
+├── LOG
+├── LOG.old
+├── Local\ Extension\ Settings
+├── Local\ Storage
+├── Login\ Data
+├── Login\ Data-journal
+├── MANIFEST-000004
+├── Media\ History
+├── Media\ History-journal
+├── Network\ Action\ Predictor
+├── Network\ Action\ Predictor-journal
+├── Network\ Persistent\ State
+├── Platform\ Notifications
+├── Preferences
+├── PreferredApps
+├── QuotaManager
+├── QuotaManager-journal
+├── README
+├── Reporting\ and\ NEL
+├── Reporting\ and\ NEL-journal
+├── Search\ Logos
+├── Secure\ Preferences
+├── Service\ Worker
+├── Session\ Storage
+├── Sessions
+├── Shortcuts
+├── Shortcuts-journal
+├── Site\ Characteristics\ Database
+├── Storage
+├── Sync\ Data
+├── Sync\ Extension\ Settings
+├── Top\ Sites
+├── Top\ Sites-journal
+├── Translate\ Ranker\ Model
+├── TransportSecurity
+├── Visited\ Links
+├── Web\ Data
+├── Web\ Data-journal
+├── WebRTC\ Logs
+├── blob_storage
+├── data_reduction_proxy_leveldb
+├── databases
+├── heavy_ad_intervention_opt_out.db
+├── heavy_ad_intervention_opt_out.db-journal
+├── previews_opt_out.db
+├── previews_opt_out.db-journal
+└── shared_proto_db
+
+25 directories, 44 files

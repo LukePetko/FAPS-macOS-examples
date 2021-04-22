@@ -1,0 +1,34 @@
+Chrome
+├── AutofillStates
+├── BrowserMetrics-spare.pma
+├── CertificateRevocation
+├── Crashpad
+├── CrashpadMetrics-active.pma
+├── Crowd\ Deny
+├── Default
+├── FileTypePolicies
+├── First\ Run
+├── Floc
+├── GrShaderCache
+├── InterventionPolicyDatabase
+├── Last\ Version
+├── Local\ State
+├── MEIPreload
+├── NativeMessagingHosts
+├── OnDeviceHeadSuggestModel
+├── OriginTrials
+├── SSLErrorAssistant
+├── Safe\ Browsing
+├── Safe\ Browsing\ Cookies
+├── Safe\ Browsing\ Cookies-journal
+├── SafetyTips
+├── ShaderCache
+├── Subresource\ Filter
+├── TLSDeprecationConfig
+├── Webstore\ Downloads
+├── WidevineCdm
+├── ZxcvbnData
+├── chrome_shutdown_ms.txt
+└── pnacl
+
+23 directories, 8 files
